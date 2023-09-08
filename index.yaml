@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https:abhilasha234.github.io/operator-repo/nginx-0.1.0.tgz
+    - https:abhilasha234.github.io/operator_repo/nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2023-08-03T18:12:30.058839349Z"
